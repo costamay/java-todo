@@ -2,7 +2,7 @@
 
 Author: Titus Opiyo
 
-Description: Pipeline in action with jenkins
+<!-- Description: Pipeline in action with jenkins -->
 
 Official repo for the "To Do List" project using Java, Spark, Handlebars etc for week 3 of java unit.
 
